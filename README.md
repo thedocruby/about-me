@@ -18,7 +18,7 @@ Below is a (mostly) complete list of all accounts associated with this alias. Cl
 ## Doc's Programming experience
 // TODO: Add backstory
 
-Below is a list of programming languages, systems, software applications, Hardware systems, and APIs that I have experience with, organized by my level of experience
+Below is a list of programming languages, operating systems, software applications, Hardware systems, and software APIs that I have experience with, organized by my level of experience
 
 ### Master
 
@@ -33,16 +33,21 @@ Below is a list of programming languages, systems, software applications, Hardwa
 - Raspberry Pi
 - Windows
 - Ubuntu- & Debian-based UNIX systems
+- Google G-Suite
 
 ### Intermediate
 - Java
 - Python
 - Bash / sh
 - BASIC
+- FabricMC
 - GDB, GCC, and G++ via CLI
+- Git CLI
 - Various Markup Languages (HTML, XML, SVG, etc.)
 - Android
+- Office Suite
 - Blender
+- GIMP
 - Gradle
 
 ### Beginner
@@ -57,6 +62,7 @@ Below is a list of programming languages, systems, software applications, Hardwa
 - Various TeX syntaxes
 - Tensor & PyTorch
 - Sponge Mixin
+- Storage RAID
 - Kali Linux
 - Red-Hat / SuSE Linux Enterprise systems
 - iOS & OS X
