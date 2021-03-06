@@ -1,4 +1,5 @@
 # About Dr. Rubisco (@thedocruby)
+![logo11_24_19850](https://user-images.githubusercontent.com/76263371/110219902-05a4aa00-7e90-11eb-9577-0519b8721655.png)
 
 Hello! I'm Dr. Rubisco, but my friends call me Doc. This name and account is the one I use for and associate with my Mojang Account/Xbox Account for purposes related to Minecraft. I try to avoid linking these accounts to my personal accounts whenever possible, so please refrain from personal inquiries. My Mojang account username is Dr_Rubisco (DOCK-tore Rue-BEECE-coe), but pretty much any other account associated with this alias (full list below) uses the username 'thedocruby', so I will often introduce myself as "Dr. Rubisco (@thedocruby)", as above.
 
