@@ -11,7 +11,7 @@ By the end of November I had dug my fingers into the Fabric community on Discord
 
 Today, I am interested in all manner of minecraft mods, modpacks, datapacks, shaderpacks, and resource packs, and enjoy developing any and all of those. I am devoted to promoting FabricMC as the more gentle and elegant modloader, and will never develop or contribute to a Forge mod. Despite this, i still cling to certain forge mods, and maintain a private Forge modpack for occasional use in singleplayer. I also enjoy microcontroller programming and small engineering projects. For these I usually use products from [Raspberry Pi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/), and/or [PJRC](https://www.pjrc.com/) (my personal favorite). Further information about myself is categorized below:
 
-**NOTE:** Unless otherwise stated, this entire document should be current to and current _only_ to the date of the last commit. If you would like me to update it, feel free to submit an issue.
+**NOTE:** Unless otherwise stated, this entire document should be current to and current _only_ to the date of the last commit. If you would like me to update it, feel free to submit an issue [here](https://github.com/thedocruby/about-me/issues).
 
 ## Doc's Minecraft Preference
 // TODO: Add typical minecraft environment & mod list
@@ -37,38 +37,38 @@ Below is a list of programming languages, operating systems, software applicatio
 - Arduino & Genuino
 - PJRC Teensy
 - Raspberry Pi
-- Windows
 - Ubuntu- & Debian-based UNIX systems
 - Google G-Suite
+- Java
 
 ### Intermediate
-- Java
-- Python
-- Bash / sh
-- BASIC
-- FabricMC
-- GDB, GCC, and G++ via CLI
-- Git CLI
+- Windows
+- Assembly
 - Various Markup Languages (HTML, XML, SVG, etc.)
 - Android
-- Office Suite
 - Blender
 - GIMP
 - Gradle
+- Fabric API
+- Git CLI
+- C#
+- Microsoft Office Suite
+- GLSL
 
-### Beginner
+### Novice (or a little rusty)
+- Bash / sh
 - JavaScript
+- BASIC (generic)
 - C-shell
+- ffmpeg
 - CSS
+- GDB, GCC, and G++ via CLI
 - Vulkan API
 - OpenGL/WebGL
-- GLSL
-- C#
+- Python
 - OpenVPN
 - Various TeX syntaxes
-- Tensor & PyTorch
 - Sponge Mixin
-- Storage RAID
 - Kali Linux
 - Red-Hat / SuSE Linux Enterprise systems
 - iOS & OS X
