@@ -7,9 +7,9 @@ I am a passionate programmer with deep roots in C and C++, and experience with m
 
 Then, in August '20, I started applying my cumulative knowledge of Minecraft Java Edition commands, messing around with datapacks and command blocks to add my own custom features. This was my first experience developing content for Minecraft. With October came Minecraft Live, the first Minecon event I have ever attended. Soon after, snapshots started rolling out, and I became somewhat active in RaysWorks' community of snapshot testers. As November came around, I rediscovered my passion for modding from years ago, this time with [FabricMC](https://github.com/FabricMC) in the picture. I was slowly entranced by FabricMC's mission, and as I became progressively more involved in the Fabric modding community, I simultaneously decided to start developing my own minecraft mods, and to only develop for Fabric modloader.
 
-By the end of November I had dug my fingers into the Fabric community on Discord, and found my way to [The Iris Project](https://github.com/IrisShaders/Iris). My eagerness to help with development of a Fabric mod, and to learn more about the process of mod development, combined with frustration with Forge and OptiFine, as well as a curiosity about computer rendering and 3D graphics, lead me to devote a considerablle amount of time to monitoring the Iris project. In addition, I tried to learn as much as I can, and contribute where I could, even if it means just reporting issues. As of 3 May '21, I am still an active member of the Iris discord, and I am beginning to develop some of my own Fabric mods as well.
+By the end of November I had dug my fingers into the Fabric community on Discord, and found my way to [The Iris Project](https://github.com/IrisShaders/Iris). My eagerness to help with development of a Fabric mod, and to learn more about the process of mod development, combined with frustration with Forge and OptiFine, as well as a curiosity about computer rendering and 3D graphics, lead me to devote a considerablle amount of time to monitoring the Iris project. In addition, I tried to learn as much as I can, and contribute where I could, even if it means just reporting issues. After gaining some respect in the Iris community, I was assinged to manage development of the official [Iris webpage](https://irisshaders.net), and soon after became a moderator on the [Iris discord](https://discord.gg/jQJnav2jPu). I also started work on [my own shaderpack](https://github.com/thedocruby/VANELLA) in mid-June. As of 26 June '21, I am still an active member of the Iris discord, and continue to work on the Iris website as well as my personal shader.
 
-Today, I am interested in all manner of minecraft mods, modpacks, datapacks, shaderpacks, and resource packs, and enjoy developing any and all of those. I am devoted to promoting FabricMC as the more gentle and elegant modloader, and will never develop or contribute to a Forge mod. Despite this, i still cling to certain forge mods, and maintain a private Forge modpack for occasional use in singleplayer. I also enjoy microcontroller programming and small engineering projects. For these I usually use products from [Raspberry Pi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/), and/or [PJRC](https://www.pjrc.com/) (my personal favorite). Further information about myself is categorized below:
+Today, I am interested in all manner of minecraft mods, modpacks, datapacks, shaderpacks, and resource packs, and enjoy developing any and all of those. I am devoted to promoting FabricMC (and more recently [Quilt Modloader](https://quiltmc.org/)) as the more gentle and elegant modloader compared to forge, while still just as powerful if not more so. This is why I will never develop or contribute to any developing Forge mod. Despite this, i still cling to certain high-quality forge mods, and maintain a private Forge modpack for occasional use in singleplayer. I also enjoy microcontroller programming and small engineering projects. For these I usually use products from [Raspberry Pi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/), and/or [PJRC](https://www.pjrc.com/) (my personal favorite). Further information about myself is categorized below:
 
 **NOTE:** Unless otherwise stated, this entire document should be current to and current _only_ to the date of the last commit. If you would like me to update it, feel free to submit an issue [here](https://github.com/thedocruby/about-me/issues).
 
@@ -17,9 +17,15 @@ Today, I am interested in all manner of minecraft mods, modpacks, datapacks, sha
 // TODO: Add typical minecraft environment & mod list
 
 ## Doc's Minecraft Presence
-Below is a (mostly) complete list of all accounts associated with this alias. Click any of the hyperlinks to learn more
+Below is a (mostly) complete list of accounts associated with this alias. Click any of the hyperlinks to learn more
 
-// TODO: Add socials
+- Discord -  Dr_Rubisco#6771 <br>
+- Patreon - [Dr. Rubisco (/thedocruby)](https://www.patreon.com/thedocruby) <br>
+- Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
+- PlanetMinecraft - [thedocruby](https://www.planetminecraft.com/thedocruby) <br>
+- GitHub - [thedocruby](https://github.com/thedocruby/) <br>
+- Reddit - [thedocruby](https://www.reddit.com/u/thedocruby) (not very active) <br>
+- Twitter - [@thedocruby](https://twitter.com/thedocruby) (_very_ not active) <br>
 
 ## Doc's Programming experience
 // TODO: Add backstory
@@ -45,26 +51,26 @@ Below is a list of programming languages, operating systems, software applicatio
 - Windows
 - Assembly
 - Various Markup Languages (HTML, XML, SVG, etc.)
+- JavaScript
+- CSS
 - Android
 - Blender
 - GIMP
 - Gradle
 - Fabric API
 - Git CLI
-- C#
-- Microsoft Office Suite
 - GLSL
+- OpenGL/WebGL
 
 ### Novice (or a little rusty)
 - Bash / sh
-- JavaScript
 - BASIC (generic)
 - C-shell
-- ffmpeg
-- CSS
+- C#
+- Microsoft Office Suite
+- FFmpeg
 - GDB, GCC, and G++ via CLI
 - Vulkan API
-- OpenGL/WebGL
 - Python
 - OpenVPN
 - Various TeX syntaxes
@@ -74,14 +80,14 @@ Below is a list of programming languages, operating systems, software applicatio
 - iOS & OS X
 
 ## Doc's Present Projects
-
-// TODO: Add projects
+- [Iris Website](https://irisshaders.net) ([github](https://github.com/IrisShaders/irisshaders.github.io))
+- [VANELLA Shaders](https://github.com/thedocruby/VANELLA)
 
 ## Doc's Past Projects
-
+- [Mimicraft](https://github.com/thedocruby/MimiCraft) - Unfinished
 
 ## Doc's Planned Projects
-
+- Gamut, a fabric mod with a similar goal to Mimicraft but with a more elegant approach.
 
 ## Contact Me
 
